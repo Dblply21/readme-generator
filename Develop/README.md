@@ -31,8 +31,8 @@ Tests
 netejioja
 
 Questions
-Github: name
+Github: Dblply21
 
 You can reach me at the following email
 
-Email: email
+Email: rmartinez@ncrowdme.com
